@@ -1,2 +1,76 @@
-# dnlock
-DnLocK программ
+# DnLocK Software
+<!DOCTYPE html>
+<html lang="mn">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="DnLocK бол iOS төхөөрөмжүүдийн firmware уншуулах, restore хийх, системийн алдаа засах боломжтой программ хангамж юм.">
+  <meta name="keywords" content="DnLocK, DnLocK програм, iOS firmware, iPhone restore, Монгол програм хангамж, DnLockS Software, Erdenesukh">
+  <meta name="author" content="DnLockS Software">
+  <title>DnLocK - iOS төхөөрөмжийн програм хангамж</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      margin: 0;
+      padding: 0;
+      background: #f4f4f4;
+      color: #333;
+    }
+    .container {
+      max-width: 800px;
+      margin: auto;
+      padding: 20px;
+      background: #fff;
+    }
+    h1, h2 {
+      color: #0056b3;
+    }
+    .contact {
+      background: #e8f0fe;
+      padding: 10px;
+      margin-top: 20px;
+    }
+    footer {
+      text-align: center;
+      font-size: 0.9em;
+      margin-top: 40px;
+      color: #666;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>DnLocK Програм хангамж</h1>
+    <p><strong>Хувилбарууд:</strong> DnLocK v4.1 (2019), DnLocK v7.6 (2021)</p>
+
+    <h2>Программын тухай</h2>
+    <p>
+      DnLocK нь iOS үйлдлийн системтэй бүх төрлийн төхөөрөмжийн firmware уншуулах, Restore хийх, системийн алдааг засах зэрэг үйлдлүүдийг гүйцэтгэх зориулалттай Монголын гаралтай програм хангамж юм.
+    </p>
+
+    <h2>Үндсэн боломжууд:</h2>
+    <ul>
+      <li>iOS firmware уншуулах</li>
+      <li>iPhone/iPad Restore хийх</li>
+      <li>Системийн алдааг илрүүлж шийдэх</li>
+      <li>Олон төрлийн iOS төхөөрөмжид хэрэглэж болно</li>
+    </ul>
+
+    <h2>Технологи:</h2>
+    <p>Python болон Visual Studio C++ ашиглан хөгжүүлсэн.</p>
+
+    <div class="contact">
+      <h2>Холбоо барих:</h2>
+      <p><strong>Facebook:</strong> <a href="https://facebook.com/Erdenesukh8827" target="_blank">Da Da Da (Erdenesukh8827)</a></p>
+      <p><strong>Утас:</strong> +976 96265205</p>
+      <p><strong>Бренд:</strong> DnLockS Software</p>
+    </div>
+
+    <footer>
+      © 2025 DnLockS Software. Бүх эрх хуулиар хамгаалагдсан.
+    </footer>
+  </div>
+</body>
+</html>
+
